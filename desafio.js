@@ -60,5 +60,5 @@ const allProducts = productManager.getProducts();
 console.log(allProducts);
 
 // Obtener un producto por id
-const productById = productManager.getProductById(2);
+const productById = productManager.getProductById(1);
 console.log(productById);
